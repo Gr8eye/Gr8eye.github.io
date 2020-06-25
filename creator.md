@@ -4,4 +4,5 @@
 **[Data](datasets.md)**
 
 My current email address:
-Martinvanpetersburg@gmail.com
+
+<Martinvanpetersburg@gmail.com>
