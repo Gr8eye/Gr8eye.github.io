@@ -1,3 +1,9 @@
+## **Projects**
+**[Home](index.md)**
+**[About me](about.md)**
+**[Data](datasets.md)**
+**[Contact](creator.md)**
+
 # My first Lambda project: 
 <img src="https://miro.medium.com/max/1400/0*qgj5caE3tiN94UjJ" alt="photo by Timon Studler on UnSplash" width="500"/>
 
