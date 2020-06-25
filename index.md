@@ -2,11 +2,12 @@
 
 _"vitae absurdem veritam"_
 
------------
+----
 **[About me](about.md)**
 **[Projects](portfolio.md)**
 **[Data](datasets.md)**
 **[Contact](creator.md)**
+
 -----------
 
 ## Work in Progress...
