@@ -1,4 +1,5 @@
 ## **Contact**
+**[Home](index.md)**
 **[About me](about.md)**
 **[Projects](portfolio.md)**
 **[Data](datasets.md)**
