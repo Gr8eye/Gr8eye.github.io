@@ -14,6 +14,6 @@
 # Second Build @ Lambda 
 <img src="https://miro.medium.com/max/1000/1*0gRBawUBJgWxyZgO2ZkDNg.png" alt="photo by Meghan Felker" width="500"/>
 
-##[Curious about Birth Counts?](https://medium.com/@martinvanpetersburg/curious-about-birth-counts-796701ccf48a)
+## [Curious about Birth Counts?](https://medium.com/@martinvanpetersburg/curious-about-birth-counts-796701ccf48a)
 
 [The Process](https://github.com/Gr8eye/Total_Pop_Fert_Data/blob/master/Meghan_Felker_Build2_Notebook.ipynb) of creating a model to predict world births per location from period to period. 
